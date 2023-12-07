@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arvydas and I'm originally from Lithuania, but located in Norway right now. Living in here for the last +5 years. :norway:</p>
+<p align="left">My name is Arvydas and I'm originally from Lithuania, but located in Norway right now. Living in here for the last +5 years.</p>
 
 ###
 
