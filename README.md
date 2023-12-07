@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning front end development at Noroff School of Technology and Digital Media<br>:mortar_board: Right now focusing on learning bootstrap 5 and improving my JS skilss.<br>🎯 Goals: To finish front end studies next year, and hopefully jump into applied machine learning studies after.</p>
+<p align="left">📚 I'm currently learning front end development at Noroff School of Technology and Digital Media<br>:mortar_board: Right now focusing on learning bootstrap 5 and improving my JS skils.<br>🎯 Goals: To finish front end studies next year, and hopefully jump into applied machine learning studies after.</p>
 
 ###
 
