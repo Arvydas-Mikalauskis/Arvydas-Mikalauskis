@@ -2,7 +2,6 @@
 
 ###
 
-
 <p align="left">My name is Arvydas and I'm originally from Lithuania, but located in Norway right now. Living in here for the last +5 years. :norway:</p>
 
 ###
@@ -38,9 +37,7 @@
 ###
 
 <div align="left">
-  <a href="https://mail.google.com/mail/arvydas.mikalauskis@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <a href="https://www.instagram.com/arvis_mi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
