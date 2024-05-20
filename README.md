@@ -1,16 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="left">My name is Arvydas and I'm originally from Lithuania, but located in Norway right now. Living in here for the last +5 years.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning front end development at Noroff School of Technology and Digital Media<br>:mortar_board: Right now focusing on learning bootstrap 5 and improving my JS skils.<br>🎯 Goals: To finish front end studies next year, and hopefully jump into applied machine learning studies after.</p>
 
 ###
 
